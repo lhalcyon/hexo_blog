@@ -105,4 +105,4 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@gitee.com:ceyx/ceyx.git
+  repo: root@43.132.248.78:/home/repo/blog.git
