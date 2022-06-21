@@ -7,13 +7,13 @@ title: Halcyon Days
 subtitle: ''
 description: 琴棋书画诗酒花 , 柴米油盐酱醋茶.
 keywords: Blog,Hexo,Android,iOS,Java,Halcyon,IT
-author: L.
+author: lhalcyon
 language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://ceyx.gitee.io/ceyx
+url: https://lhalcyon.com
 root: /
 permalink: :urlname/
 permalink_defaults:
