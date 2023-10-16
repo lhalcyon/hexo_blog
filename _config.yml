@@ -106,3 +106,9 @@ theme: butterfly
 deploy:
   type: git
   repo: root@43.132.248.78:/home/repo/blog.git
+
+# search:
+#   path: search.xml
+#   field: post
+#   format: html
+#   limit: 10000

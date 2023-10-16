@@ -60,6 +60,7 @@ algolia_search:
 # Local search
 local_search:
   enable: false
+  preload: false
 
 # Math (數學)
 # --------------------------------------
