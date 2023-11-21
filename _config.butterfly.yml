@@ -417,7 +417,7 @@ footer:
   owner:
     enable: true
     since: 2017
-  custom_text: Goodybye , Halcyon Days ..
+  custom_text: 欲买桂花同载酒,终不似,少年游..
   copyright: false # Copyright of theme and framework
 
 # Analysis
@@ -873,10 +873,10 @@ inject:
 # 非必要請不要修改
 CDN:
   # main
-  main_css: /css/index.css
-  jquery: https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js
-  main: /js/main.js
-  utils: /js/utils.js
+#  main_css: /css/index.css
+#  jquery: https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js
+#  main: /js/main.js
+#  utils: /js/utils.js
 
   # pjax
   pjax: https://cdn.jsdelivr.net/npm/pjax/pjax.min.js
